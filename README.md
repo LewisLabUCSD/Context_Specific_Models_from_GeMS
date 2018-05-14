@@ -1,3 +1,5 @@
+IMPORTANT NOTE - The code is compatible with the COBRA 2.0 release circa 2015, and may not be compatible with COBRA 3.0 due to major changes in the COBRA toolbox.
+
 # Context_Specific_Models_from_GeMS
 A systematic evaluation of methods for tailoring genome-scale metabolic models
 DOI: Ref:
