@@ -1,4 +1,5 @@
 IMPORTANT NOTE - The code is compatible with the COBRA 2.0 release circa 2015, and may not be compatible with COBRA 3.0 due to major changes in the COBRA toolbox.
+We suggest researchers developing context specific models to use the new version of the function createTissueSpecificModel.m available with COBRA 3.0 in order to ensure the usage of the most up-to-date extraction features
 
 # Context_Specific_Models_from_GeMS
 A systematic evaluation of methods for tailoring genome-scale metabolic models
